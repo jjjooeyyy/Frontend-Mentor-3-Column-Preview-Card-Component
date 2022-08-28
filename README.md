@@ -16,7 +16,7 @@ Users should be able to:
 ![](/images/iphone.png)
 
 ## Link
-- [Live Site URL](https://your-live-site-url.com)
+- [Live Site URL](https://preview-card-forntend-mentor.netlify.app/)
 
 
 ### Built with
